@@ -11,3 +11,4 @@
 | 2017/08/25 | Canon 2204N打印机驱动安装 | WiFi连接，设置静态IP |
 | 2017/08/25 | Canon PIXMA G3800打印机设置 | [佳能PIXMA G3800打印机WLAN设置](https://github.com/northbright/Notes/blob/master/hardware/wlan-configuration-of-canon-pixma-g3800-printer.md) |
 | 2017/08/28 | UBNT UAP AC Lite设置为静态IP | [可以忽略UBNT UAP的网络设置中使用静态IP后提示的IP冲突警告](https://github.com/northbright/Notes/blob/master/hardware/ignore-the-ip-conflict-warning-when-use-static-ip-for-ubnt-uap.md) |
+| 2017/09/27 | 财务室安装Canon MF4720w打印机 | WiFi连接，设置静态IP |
