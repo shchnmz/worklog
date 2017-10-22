@@ -13,3 +13,4 @@
 | 2017/07/28 | 同时使用DP转VGA适配器与Ralink PCI-E 无线网卡(有天线)造成黑屏 | 天线有无线干扰，DP转VGA线无屏蔽 | 更换另外品牌DP转VGA适配器(绿联) | [DP转VGA适配器会因为无线网卡天线造成的干扰而不工作](https://github.com/northbright/Notes/blob/master/hardware/dp-to-vga-adapter-will-not-work-because-of-emi-of-wireless-antenna.md) |
 | 2017/08/10 | AMP网络面板的螺丝与中国86盒不兼容 | 螺丝较细 | 另行购买螺丝 | |
 | 2017/08/10 | H3C 1224vr2 交换机故障 | 上电后所有指示灯亮，不通。 | 换货 |  |
+| 2017/10/20 | HP Z238不能启动 | 按下电源键电源灯亮，放开后灭，不能启动 | 清除CMOS，然后启动 | [HP Z238 Failed to Power On](https://github.com/northbright/Notes/blob/master/hardware/hp-z238-failed-to-power-on.md)
