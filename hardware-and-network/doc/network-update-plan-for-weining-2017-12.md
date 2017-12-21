@@ -48,4 +48,5 @@
 * 用线标准：秋叶原六类无屏蔽
 * 网络模块：康普六类模块
 * 布线后，机柜接入端做水晶头即可：此次施工时间紧张，不使用配线架
-* 无线吸顶AP具体安装要求参考[无线覆盖](https://github.com/shchnmz/worklog/blob/master/hardware-and-network/doc/network-plan-for-gubei-campus/network-plan-for-gubei-campus.md#%E6%97%A0%E7%BA%BF%E8%A6%86%E7%9B%96)
+* 无线吸顶AP具体安装要求参考[无线覆盖](https://github.com/shchnmz/worklog/blob/master/hardware-and-network/doc/network-plan-for-gubei-campus/network-plan-for-gubei-campus.md#%E6%97%A0%E7%BA%BF%E8%A6%86%E7%9B%96):
+  ![](https://raw.githubusercontent.com/shchnmz/worklog/master/hardware-and-network/doc/network-plan-for-gubei-campus/img/01.jpg)
