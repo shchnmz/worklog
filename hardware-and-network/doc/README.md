@@ -5,11 +5,10 @@
 * [古北校区网络布线统计](cable-and-module-numbers-of-gubei-campus.md)
 * [古北校区弱电相关问题](network-project-problems-of-gubei-campus.md)
 * [威宁校区网络改造计划（2017/12）](network-update-plan-for-weining-2017-12.md)
+* [威宁校区网络布线数量预估(包含2018下半年改造)](network-cables-num-for-weining-2018.md)
 
 #### 记录
 * [古北校区电话相关配置信息](telephone-settings-of-gubei-campus.md)
 * [古北校区监控相关设置](camera-settings-of-gubei-campus.md)
 * [古北校区使用电脑连接电视教学注意事项](pc-and-tv-settings-of-gubei-campus/pc-and-tv-settings-of-gubei-campus.md)
 * [古北校区打印机设置](printer-settings-of-gubei.md)
-
-
