@@ -13,4 +13,4 @@
 | 2017/08/28 | UBNT UAP AC Lite设置为静态IP | [可以忽略UBNT UAP的网络设置中使用静态IP后提示的IP冲突警告](https://github.com/northbright/Notes/blob/master/hardware/ignore-the-ip-conflict-warning-when-use-static-ip-for-ubnt-uap.md) |
 | 2017/09/27 | 财务室安装Canon MF4720w打印机 | WiFi连接，设置静态IP |
 | 2018/01/04 - 2018/01/05 | 威宁校区改造，教务处临时搬迁至6，7号教室。每个教室10台PC组装接线。新增2根网线从机柜至6，7号教室，多级交换机级连组成临时网络。网络打印机连接。 | 临时使用约40天 |
-| 2018/01/15 | 中山公园配合机房安装松下程控交换机 | [Panasonic（松下）电话程控交换机操作](https://github.com/northbright/Notes/blob/master/hardware/panasonic-kx-ns300-bpx-basis.md) |
+| 2018/01/15 | 中山公园配合机房安装松下程控交换机 | [Panasonic（松下）电话程控交换机操作](https://github.com/northbright/Notes/blob/master/hardware/panasonic-kx-ns300-basis.md) |
