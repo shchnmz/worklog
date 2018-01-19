@@ -70,4 +70,4 @@
 置分机号码
 
 #### 参考资料
-* [Panasonic（松下）电话程控交换机操作](https://github.com/northbright/Notes/blob/master/hardware/panasonic-kx-ns300-bpx-basis.md)
+* [Panasonic（松下）电话程控交换机操作](https://github.com/northbright/Notes/blob/master/hardware/panasonic-kx-ns300-basis.md)
