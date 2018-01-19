@@ -12,3 +12,4 @@
 * [古北校区监控相关设置](camera-settings-of-gubei-campus.md)
 * [古北校区使用电脑连接电视教学注意事项](pc-and-tv-settings-of-gubei-campus/pc-and-tv-settings-of-gubei-campus.md)
 * [古北校区打印机设置](printer-settings-of-gubei.md)
+* [中山公园校区电话设置(2018/01/15)](telephone-settings-of-zhongshan-park.md)
