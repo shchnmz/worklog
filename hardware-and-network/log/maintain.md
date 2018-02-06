@@ -15,3 +15,4 @@
 | 2017/08/10 | H3C 1224vr2 交换机故障。上电后所有指示灯亮，不通。 | 设备故障 | 换货 |  |
 | 2017/10/20 | HP Z238不能启动。按下电源键电源灯亮，放开后灭，不能启动。 | CMOS有问题 | 清除CMOS，然后启动 | [HP Z238 Failed to Power On](https://github.com/northbright/Notes/blob/master/hardware/hp-z238-failed-to-power-on.md)
 | 2018/01/15 | 中山公园校区电话拨不进 | 程控交换机故障 | 更换新的松下程控交换机并重新设置分机号码 | [Panasonic（松下）电话程控交换机操作](https://github.com/northbright/Notes/blob/master/hardware/panasonic-kx-ns300-bpx-basis.md) |
+| 2018/02/06 | 威宁校区1台HP Z228不能启动 | 金士顿DDR3 1600 8GB内存条故障 | JD申请售后 |
