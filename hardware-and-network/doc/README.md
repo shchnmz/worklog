@@ -14,3 +14,4 @@
 * [古北校区打印机设置](printer-settings-of-gubei.md)
 * [中山公园校区电话设置(2018/01/15)](telephone-settings-of-zhongshan-park.md)
 * [威宁校区监控相关设置(2018/02)](camera-settings-of-weining-campus.md)
+* [威宁校区电话设置(2018/02/05)](telephone-settings-of-weining-campus.md)
