@@ -70,5 +70,17 @@
     * Port是对应电话配线架上的Port口，如果增加分机线路，先在配线架上的Port口打上，再找到对应Port，设
 置分机号码
 
+#### 松下程控交换机配置
+* IP: `192.168.1.9`
+* MAC: `08:00:23:A5:D4:F7`
+* 用户名: `INSTALLER`(大写)
+* 初始密码: `2303`
+
+#### 申瓯电话录音盒配置
+* IP: `192.168.1.90`
+* MAC: `70:B0:8C:83:09:05`
+* 用户名: `admin`
+* 初始密码: `123456`
+
 #### 参考资料
 * [Panasonic（松下）电话程控交换机操作](https://github.com/northbright/Notes/blob/master/hardware/panasonic-kx-ns300-basis.md)
