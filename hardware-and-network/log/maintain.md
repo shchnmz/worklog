@@ -18,3 +18,7 @@
 | 2018/02/05 | 威宁校区1台HP Z238工作站和DELL P2417显示器显示故障 | 显示器自带DP线故障 | 新购绿联带卡扣的DP线更换 |
 | 2018/02/06 - 2018/02/12 | 威宁校区1台HP Z228不能启动 | 金士顿DDR3 1600 8GB内存条故障 | JD申请售后/换新 | 蜂鸣5次表示内存错误，金士顿终身保修，换新 |
 | 2018/12/08 - 2018/02/12 | 多台EPSON针式打印机不能工作 | Windows Update更新导致故障 | 在微软没有发布新的更新前：卸载导致问题的更新；后续直接安装新的更新 | [Unable Print to EPSON Dot Matrix Printer](https://github.com/northbright/Notes/blob/master/hardware/unable-to-print-epson-dot-matrix-printers-on-windows.md) |
+| 2018/02/20 - 2018/02/23 | 中山公园校区网络无Internet连接 | 网络中存在一个TP-LINK WR740N路由器, DHCP服务器开启。春节假期工作电脑关闭7天，启动后得到该路由器分配的192.168.0.x的IP | 在中山公园物业值班室找到路由器, 关闭DHCP，将WAN口封好 | 物业在中山公园校区装修好时，私自将学校网线接入物业值班室 |
+| 2018/02/23 | 中山公园校区1路电话无法拨入／拨出 | 电信光猫直接接电话机也无信号，光猫可能有问题 | 重启光猫 | 之前也碰到过类似问题 |
+| 2018/02/24 | 古北校区电信宽带断网重连3次 | H3C ER5200G2的log显示电信端无信号返回导致断线重拨 | 保修10000，上门检测发现ping值有时很高，刷新电信后台数据，重新测试一段时间，如果还有问题换光猫 | 光信号值良好 |
+| 2018/02/24 | 威宁校区报名处第1台EPSON针式打印机不工作 | 该打印机原来是USB连接至第2台电脑，并设置打印机共享给第1台，现在发现该打印机共享取消了 | 重新共享打印机 | 第2台电脑之前因为Windows Update造成EPSON针式打印机不工作, 见[Unable Print to EPSON Dot Matrix Printer](https://github.com/northbright/Notes/blob/master/hardware/unable-to-print-epson-dot-matrix-printers-on-windows.md) |
