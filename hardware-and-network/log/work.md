@@ -21,3 +21,4 @@
 | 2018/02/06 | 威宁校区海康威视监控录像机查看监控以及回放调试 | [海康威视录像机基本操作](https://github.com/northbright/Notes/blob/master/hardware/hikvision-recorder-basis/hikvision-recorder-basis.md) |
 | 2018/02/09 | 中山公园校区安装8台HP Z228工作站。设置打印机，共享服务器 | 新增8位教师 2F:1位，3F:7位|
 | 2018/02/09 | 中山公园校区使用2台UBNT UAP AC Pro和2台水星POE交换机进行新办公区域无线覆盖 | 3F的2个新办公室 |
+| 2018/02/25 | 古北校区电信宽带升级200M | 电信免费升级200M，更换新网关，路由器连接LAN 7, QOS设置单IP限速上下行均20M |
