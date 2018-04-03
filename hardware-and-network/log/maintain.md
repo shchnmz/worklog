@@ -23,4 +23,4 @@
 | 2018/02/24 | 古北校区电信宽带断网重连3次 | H3C ER5200G2的log显示电信端无信号返回导致断线重拨 | 保修10000，上门检测发现ping值有时很高，刷新电信后台数据，重新测试一段时间，如果还有问题换光猫 | 光信号值良好 |
 | 2018/02/24 | 威宁校区报名处第1台EPSON针式打印机不工作 | 该打印机原来是USB连接至第2台电脑，并设置打印机共享给第1台，现在发现该打印机共享取消了 | 重新共享打印机 | 第2台电脑之前因为Windows Update造成EPSON针式打印机不工作, 见[Unable Print to EPSON Dot Matrix Printer](https://github.com/northbright/Notes/blob/master/hardware/unable-to-print-epson-dot-matrix-printers-on-windows.md) |
 | 2018/03/06 | 中山公园校区1门外线拨入，数字总机接起后，另外1门外线拨入没有响铃，造成没有人接听 | 2门外线均接入到松下ns300电话交换机后，数字总机没有设置忙转 | 配套松下数字电话机2根外线设置忙转 | [Panasonic（松下）电话程控交换机操作](https://github.com/northbright/Notes/blob/master/hardware/panasonic-kx-ns300-basis.md) |
-| 2018/04/03 | 上午明日系统不能访问 | 服务器（明日系统运行在虚拟机中）被意外断电然后再上电 | 开启虚拟机运行明日系统，开启自动备份的navicat-backup的server | 2018/04/02晚上19:00装修施工断电 |
+| 2018/04/03 | 上午明日系统不能访问 | 服务器（明日系统运行在虚拟机中）被意外断电然后再上电 | 开启虚拟机运行明日系统，开启自动备份的[navicat-backup](https://github.com/northbright/navicat-backup)的server | 2018/04/02晚上19:00装修施工断电 |
