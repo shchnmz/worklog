@@ -11,3 +11,4 @@
 | 2017/12/01 | 完成古北校区小卖部（一思）微信小店升级微信小程序的认证 | 微信小店在2017/12月可以作为小程序 |
 | 2018/03/13 | 完成[jwthelper](https://github.com/northbright/jwthelper)，用于用户认证模块 | 教师系统以及家长认证需要的通用模块 |
 | 2018/03/26 | 完成[aliyun/message](https://github.com/northbright/aliyun/tree/master/message) | 用户新注册模块需要的短信验证码功能 |
+| 2018/04/18 | 完成古北校区微信公众号认证(2018) | 古北校区小卖部 |
