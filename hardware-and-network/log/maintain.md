@@ -26,3 +26,4 @@
 | 2018/04/03 | 上午明日系统不能访问 | 服务器（明日系统运行在虚拟机中）被意外断电然后再上电 | 开启虚拟机运行明日系统，开启自动备份的[navicat-backup](https://github.com/northbright/navicat-backup)的server | 2018/04/02晚上19:00装修施工断电 |
 | 2018/04/17 | 1台Win10的电脑上已安装的佳能打印机消失，且卸载／重新安装打印机驱动均失败 | Printer Spooler服务停止，启动失败:没有足够资源错误 | 运行netsh winsock reset | [Failed to Start Printer Spooler Service](https://github.com/northbright/Notes/blob/master/Windows/printer/failed-to-start-printer-spooler-service.md) |
 | 2018/04/26 | 明日系统不能访问 | 机柜电源所在电路跳电 | 物业电工临时接电线 | 装修时电路存在问题，准备维修。因机柜／机房空间实在太小，根本没有安装UPS的可能 |
+| 2018/04/27 | 1台Dell P2317H显示器上电不能点亮 | 硬件故障 | JD售后让直接联系Dell售后: 4008811852(手机拨打) | 显示器需拍3张照片: 1. 正面（拍到边框) 2.反面（拍到边框） 3. Service Tag/序列号 |
