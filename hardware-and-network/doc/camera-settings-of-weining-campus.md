@@ -20,7 +20,13 @@
 * 海康威视
 
 #### 录像机设置
-* 录像机IP: `192.168.30.2`
+* 录像机IP: 静态地址:`192.168.30.2`
+
+#### 序列号
+* 136849526
+
+#### 萤石云设置的验证码
+* QWRTYU
 
 #### 实时监控以及回放
 * [海康威视录像机基本操作](https://github.com/northbright/Notes/blob/master/hardware/hikvision-recorder-basis/hikvision-recorder-basis.md)
