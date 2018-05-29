@@ -6,6 +6,7 @@
 * [古北校区弱电相关问题](network-project-problems-of-gubei-campus.md)
 * [威宁校区网络改造计划（2017/12）](network-update-plan-for-weining-campus-2017-12.md)
 * [威宁校区网络布线数量预估(包含2018下半年改造)](network-cables-num-for-weining-campus-2018.md)
+* [中山公园校区监控更新计划（2018年5月）](camera-update-plan-of-shangshan-park-campus.md)
 
 #### 记录
 * [古北校区电话相关配置信息](telephone-settings-of-gubei-campus.md)
