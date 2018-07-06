@@ -24,3 +24,4 @@
 | 2018/02/25 | 古北校区电信宽带升级200M | 电信免费升级200M，更换新网关，路由器连接LAN 7, QOS设置单IP限速上下行均20M |
 | 2018/06/21 - 2018/07/05 | 中山公园校区改造，2楼和3楼的摄像头更新，211/311教室新增摄像头，306划出新办公室，新增无线AP | 机房重新布线，新增交换机和硬盘录像机 |
 | 2018/07/04 | 中山公园共享服务器server1配置允许远程登录 | [Remote Desktop Authentication Error: The Function is Not Supported](https://github.com/northbright/Notes/blob/master/Windows/remote-desktop/remote-desktop-authentication-error-the-function-is-not-supported.md)  |
+| 2018/07/04 | 中山公园校区Unifi Controller重新配置: chnmz网络用于手机，VLAN ID: 20,chnmz-pc用于电脑和打印机 | Unifi Controller安装在server1上 |
