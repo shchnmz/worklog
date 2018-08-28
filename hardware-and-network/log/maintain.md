@@ -30,4 +30,5 @@
 | 2018/04/27 | 1台Dell主机因为学校跳电，非正常关机后不能启动: 引导信息有错误 | MBR损坏 | 使用WePE进入系统，使用DiskGenius重建MBR | [Boot Manager: Windows Failed to Start with Status: 0xc000000f](https://github.com/northbright/Notes/blob/master/Windows/boot/boot-manager-windows-failed-to-start-with-status-0xc000000f.md) |
 | 2018/05/23 | 海康威视录象机萤石云连不上，显示"不在线" | 没有输入验证码 | 输入6个任意大写字母（A/B/C/D/E/F除外）| [HikVision Camera Recorder Can Not Connect to 萤石云(ezviz)](https://github.com/northbright/Notes/blob/master/hardware/hikvision-camera-recorder-can-not-connect-to-ying-shi-yun.md) | 
 | 2018/08/17 | 中山公园教室电脑不能开机 | 电源损坏 | 购买航嘉Jumper450B电源替换 | 2台 |
+| 2018/08/17 | 中山公园共享打印机不能访问 | 服务器意外断电，共享打印机失效 | 重新安装打印机驱动 | "打印机属性"->"高级"->"在后台处理完最后一页时开始打印" |
 | 2018/08/22 | 明日系统不能访问 | 8月22日 01:40分楼内电路跳电,交换机以及服务器均重启,MySQL损坏 | 重建虚拟机,导入数据备份 | MySQL损坏不能连接数据库可以直接回复VirtualBox的Snapshot,然后恢复数据 |
