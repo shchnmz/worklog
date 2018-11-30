@@ -13,3 +13,4 @@
 | 2018/03/26 | 完成[aliyun/message](https://github.com/northbright/aliyun/tree/master/message) | 用户新注册模块需要的短信验证码功能 |
 | 2018/04/18 | 完成古北校区微信公众号认证(2018) | 古北校区小卖部 |
 | 2018/09/01 - 2018/11/29 | 决定重新构建一个美校的IT系统，使用外包方案。工作包括:(1).前期准备讨论(2)内部首先需求分析(3). 流程图绘制(4). 和外包服务商会议，选择外包服务商 | |
+| 2018/11/29 | 18年秋季的转班系统突然不能访问，查明是阿里云的CentOS 7的ECS的IP租约到期后刷新DHCP失败，没有获得内网IP，后联系客服重启网络服务后恢复 | [阿里云运行CentOS 7的ECS不能通过DHCP获取IP](https://github.com/northbright/Notes/blob/master/aliyun/can-not-get-ip-via-dhcp-on-centos-7-ecs.md) |
