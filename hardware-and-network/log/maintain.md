@@ -33,3 +33,4 @@
 | 2018/08/17 | 中山公园共享打印机不能访问 | 服务器意外断电，共享打印机失效 | 重新安装打印机驱动 | "打印机属性"->"高级"->"在后台处理完最后一页时开始打印" |
 | 2018/08/22 | 明日系统不能访问 | 8月22日 01:40分楼内电路跳电,交换机以及服务器均重启,MySQL损坏 | 重建虚拟机,导入数据备份 | MySQL损坏不能连接数据库可以直接回复VirtualBox的Snapshot,然后恢复数据 |
 | 2018/11/26 | 威宁校区网络突然变慢 | 电信的网关Raisecom MSG2200-T4出现大量UDP组播占用incoming带宽 | 要求电信更换光猫（单口） | 之前古北校区出现断网也是因为Raisecom MSG2200-T4的known issue，[Shanghai Telecom FTTH(commercial) Becomes Very Slow](https://github.com/northbright/Notes/blob/master/hardware/shanghai-telecom-ftth-becomes-very-slow/shanghai-telecom-ftth-becomes-very-slow.md) |
+| 2018/12/24 | 明日系统出现License到期错误，但是购买的是永久授权 | 确认是2018/12/24到期 | 联系第三方软件服务商修复 | [Get License Information of ming800](https://github.com/northbright/Notes/blob/master/Software/ming/get-license-information-of-ming.md) |
