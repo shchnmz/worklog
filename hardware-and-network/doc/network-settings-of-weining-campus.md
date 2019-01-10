@@ -1,6 +1,6 @@
 # 威宁校区网络改造以及设置
 
-#### VLAN
+## VLAN
 使用H3C ER3260路由器的基于端口的VLAN
 
 | VLAN ID | IP | Description | H3C Router LAN ID |
@@ -8,7 +8,7 @@
 | 20 | 192.168.20.1 | UBNT Unifi Controller Wireless Network: chnmz | 2 |
 | 30 | 192.168.30.1 | Network for Hikvision Cameras and Recorder | 3 |
 
-#### UBNT UAP的位置和设备信息
+## UBNT UAP的位置和设备信息
 
 | MAC | 型号 | 位置 | 2.4 G信道 |  5G 信道 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -22,7 +22,7 @@
 | 78:8a:20:48:58:b1 | UAP AC Lite | 财务室 | 6 | 153 |
 | 78:8a:20:70:23:2a | UAP AC Lite | 领导办公室 | 11 | 161 |
 
-### ER3260 DHCP 静态路由表
+## ER3260 DHCP 静态路由表
 
 | MAC | IP | Description |
 | :--: | :--: | :--: |
