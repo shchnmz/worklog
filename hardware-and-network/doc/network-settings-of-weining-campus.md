@@ -3,10 +3,10 @@
 ## VLAN
 使用H3C ER3260路由器的基于端口的VLAN
 
-| VLAN ID | IP | Description | H3C Router LAN ID |
-| :---: | :---: | :---: | :---: |
-| 20 | 192.168.20.1 | UBNT Unifi Controller Wireless Network: chnmz | 2 |
-| 30 | 192.168.30.1 | Network for Hikvision Cameras and Recorder | 3 |
+| VLAN ID | IP | DHCP Pool | Description | H3C Router LAN ID |
+| :---: | :---: | :---: | :---: | :--: |
+| 20 | 192.168.20.1 | 192.168.20.2 ~ 192.168.20.254 | UBNT Unifi Controller Wireless Network: chnmz | 2 |
+| 30 | 192.168.30.1 | 192.168.20.2 ~ 192.168.20.254 | Network for Hikvision Cameras and Recorder | 3 |
 
 * Trunk口设置
 
