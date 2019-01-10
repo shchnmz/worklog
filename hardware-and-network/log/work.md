@@ -31,3 +31,4 @@
 | 2018/09/20 | 艾特租租给中山公园校区9台清华同方电脑到货。安装软件，连接共享文件夹／打印机 | [Win10 PC Can't Access Shared Folder by Name after 3 H3C Switches Stacked](https://github.com/northbright/Notes/blob/master/Windows/network/win10-pc-can-not-access-shared-folder-by-name-after-3-h3c-swithes-stacked.md) |
 | 2018/12/20 | 中山公园校区新装10台HP Z238(Win10 Home)工作站，使用Dism++来部署已经配置的镜像(共享，打印机，软件，设置)。 | 新老师 |
 | 2018/12/23 | 威宁公园校区新装10台HP Z238(Win10 Home)工作站，使用Dism++来部署已经配置的镜像(共享，>打印机，软件，设置)。| 新老师 |
+| 2019/01/10 | 威宁校区更换H3C ER3260路由器为新购H3C ER8200-X | WAN 2连接ZTE光猫。电信200M款带，升级路由器支持千兆模式 |
