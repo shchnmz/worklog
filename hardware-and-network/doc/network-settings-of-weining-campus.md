@@ -6,7 +6,7 @@
 | VLAN ID | IP | DHCP Pool | Description | H3C Router LAN ID |
 | :---: | :---: | :---: | :---: | :--: |
 | 20 | 192.168.20.1 | 192.168.20.2 ~ 192.168.20.254 | UBNT Unifi Controller Wireless Network: chnmz | 2 |
-| 30 | 192.168.30.1 | 192.168.20.2 ~ 192.168.20.254 | Network for Hikvision Cameras and Recorder | 3 |
+| 30 | 192.168.30.1 | 192.168.30.2 ~ 192.168.30.254 | Network for Hikvision Cameras and Recorder | 3 |
 
 * Trunk口设置
 
