@@ -8,6 +8,14 @@
 | 20 | 192.168.20.1 | UBNT Unifi Controller Wireless Network: chnmz | 2 |
 | 30 | 192.168.30.1 | Network for Hikvision Cameras and Recorder | 3 |
 
+* Trunk口设置
+
+| 端口 | PVID | 允许通过的VLAN |
+| :--: | :--: | :--: |
+| LAN1 | 1 | 1 |
+| LAN2 | 1 | 1,20 |
+| LAN3 | 30 | 30 |
+
 ## UBNT UAP的位置和设备信息
 
 | MAC | 型号 | 位置 | 2.4 G信道 |  5G 信道 |
