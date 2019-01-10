@@ -29,3 +29,5 @@
 | 2018/09/13 | 艾特租租给威宁校区9台清华同方电脑到货。安装软件，连接共享文件夹／打印机 | |
 | 2018/09/18 - 2018/09/19 | 和航今公司去中山公园校区306办公室，2楼／3楼教务处有线网络布线 | 306办公室原先只有无线网络，增加有线网络 |
 | 2018/09/20 | 艾特租租给中山公园校区9台清华同方电脑到货。安装软件，连接共享文件夹／打印机 | [Win10 PC Can't Access Shared Folder by Name after 3 H3C Switches Stacked](https://github.com/northbright/Notes/blob/master/Windows/network/win10-pc-can-not-access-shared-folder-by-name-after-3-h3c-swithes-stacked.md) |
+| 2018/12/20 | 中山公园校区新装10台HP Z238(Win10 Home)工作站，使用Dism++来部署已经配置的镜像(共享，打印机，软件，设置)。 | 新老师 |
+| 2018/12/23 | 威宁公园校区新装10台HP Z238(Win10 Home)工作站，使用Dism++来部署已经配置的镜像(共享，>打印机，软件，设置)。| 新老师 |
