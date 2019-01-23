@@ -10,4 +10,4 @@
 | 成人 | 成人年级 |
 
 ## 年级与年段的关系
-* [学校当前年段设置](https://github.com/shchnmz/worklog/blob/master/software/doc/mx/nianduan.md#%E5%AD%A6%E6%A0%A1%E5%BD%93%E5%89%8D%E5%B9%B4%E6%AE%B5%E8%AE%BE%E7%BD%AE)
+* [学校当前年段设置](nianduan.md#%E5%AD%A6%E6%A0%A1%E5%BD%93%E5%89%8D%E5%B9%B4%E6%AE%B5%E8%AE%BE%E7%BD%AE)
