@@ -2,4 +2,5 @@
 
 * [系统设置](settings/README.md)
 * [组织机构管理](organization/README.md)
+* [学生](student/README.md)
 * [教务](jiaowu/README.md)
