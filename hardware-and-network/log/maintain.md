@@ -40,4 +40,5 @@
 | 2019/03/13 | 中山公园1台HP Z228工作站不能上网 | 安装了VPN软件 | 在网络的连接选项中，取消代理服务器的设置，卸载VPN软件 | |
 | 2019/04/09 | 威宁1台HP Z238工作站不能上网 | 安装了VPN软件 | 在网络的连接选项中，取消代理服务器的设置，卸载VPN软件 | |
 | 2019/04/15 | 威宁校区1根电信宽带不能上网，PPPOE拨号始终失败，网关有红色灯 | 电信线路问题 | 保修电信维修 | 天山路水城路的电信的光纤节点有问题，后修复 |
+| 2019/04/19 | 威宁校区共享服务器不能远程桌面 | 网络位置突然变成"公共"，防火墙没有为"公共"添加远程桌面的例外 | 将网络位置设置成"工作" | [Configure Firewall Exception for Remote Desktop](https://github.com/northbright/Notes/blob/master/Windows/remote-desktop/configure-firewall-exception-for-remote-desktop.md) |
 
