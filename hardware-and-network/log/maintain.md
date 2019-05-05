@@ -41,4 +41,7 @@
 | 2019/04/09 | 威宁1台HP Z238工作站不能上网 | 安装了VPN软件 | 在网络的连接选项中，取消代理服务器的设置，卸载VPN软件 | |
 | 2019/04/15 | 威宁校区1根电信宽带不能上网，PPPOE拨号始终失败，网关有红色灯 | 电信线路问题 | 保修电信维修 | 天山路水城路的电信的光纤节点有问题，后修复 |
 | 2019/04/19 | 威宁校区共享服务器不能远程桌面 | 网络位置突然变成"公共"，防火墙没有为"公共"添加远程桌面的例外 | 将网络位置设置成"工作" | [Configure Firewall Exception for Remote Desktop](https://github.com/northbright/Notes/blob/master/Windows/remote-desktop/configure-firewall-exception-for-remote-desktop.md) |
-
+| 2019/04/24 | 中山公园校区的电脑不能上网，网络显示黄色感叹号 | 04/23晚上物业停电维修，2F的小卖部有一台TP-Link WR740路由器新接入，DHCP没有被禁用 | 禁用DHCP服务器 | 中山公园校区停电维修比较频繁，如果网络有接入路由器且DHCP没被禁用，供电恢复后，电脑的IP都很可能将由新接入的路由器分配，而不是H3C的企业路由器 |
+| 2019/04/24 | 中山公园校区的数字总机不响铃 | 松下数字电话机被设置静音 | 调整音量 | [Digital Phone of Panasonic NS 300 was Muted](https://github.com/northbright/Notes/blob/master/hardware/digital-phone-of-panasonic-kx-ns300-was-muted.md) |
+| 2019/05/05 | 中山公园校区报名处共享打印机（发票针打）不能访问 | 安装了金山毒霸，系统防火墙被禁用 | 卸载金山毒霸，修复防火墙，配置规则 | [Shared Folders / Printers can not be Accessed by Other PCs Due to Duba has been Installed on Windows 7](https://github.com/northbright/Notes/blob/master/Windows/printer/shared-folders-and-printers-can-not-be-accessed-by-other-pcs-due-to-duba-has-been-installed-on-windows-7.md)  |
+| 2019/05/05 | 中山公园校区报名处的主任处的网络面板脱落 | 扯动造成脱落 | 网络工程公司帮忙更换网络/电话模块 | 原ping同网段电脑164，修复后64，装修使用五类线 | 
