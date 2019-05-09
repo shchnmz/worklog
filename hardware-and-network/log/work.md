@@ -34,4 +34,5 @@
 | 2019/01/10 | 威宁校区更换H3C ER3260路由器为新购H3C ER8300G2-X | WAN 2连接ZTE光猫。电信200M款带，升级路由器支持千兆模式 |
 | 2019/02/17 | 威宁校区新购5台子母电话机，用于转班期间电话繁忙的解决方案 | 第一间办公室，教务处 |
 | 2019/02/18 | 古北校区新购1台Canon G3800打印机，驱动安装到server | WiFi连接 |
-| 2017/02/22 | 威宁校区报名处1台Canon MF4700打印机驱动安装到server | WiFi连接 |
+| 2019/02/22 | 威宁校区报名处1台Canon MF4700打印机驱动安装到server | WiFi连接 |
+| 2019/05/09 | 金沙江路校区安装电信宽带，2路电话移机 | [Setup Call Forwarding Service of Shanghai Telecom](https://github.com/northbright/Notes/blob/master/telecom/setup-call-forwarding-service-of-shanghai-telecom.md)  |
