@@ -45,3 +45,4 @@
 | 2019/04/24 | 中山公园校区的数字总机不响铃 | 松下数字电话机被设置静音 | 调整音量 | [Digital Phone of Panasonic NS 300 was Muted](https://github.com/northbright/Notes/blob/master/hardware/digital-phone-of-panasonic-kx-ns300-was-muted.md) |
 | 2019/05/05 | 中山公园校区报名处共享打印机（发票针打）不能访问 | 安装了金山毒霸，系统防火墙被禁用 | 卸载金山毒霸，修复防火墙，配置规则 | [Shared Folders / Printers can not be Accessed by Other PCs Due to Duba has been Installed on Windows 7](https://github.com/northbright/Notes/blob/master/Windows/printer/shared-folders-and-printers-can-not-be-accessed-by-other-pcs-due-to-duba-has-been-installed-on-windows-7.md)  |
 | 2019/05/05 | 中山公园校区报名处的主任处的网络面板脱落 | 扯动造成脱落 | 网络工程公司帮忙更换网络/电话模块 | 原ping同网段电脑164，修复后64，装修使用五类线 | 
+| 2019/07/02 | 9号教室在海康威视的网络界面不能预览 | 摄像头的子码流设置有问题 | 按照其他正常摄像头来设置子码流 | [Failed to Preview One Channel of HikVision Recorder](https://github.com/northbright/Notes/blob/master/hardware/failed-to-preview-on-channel-of-hikvision-recorder.md) |
