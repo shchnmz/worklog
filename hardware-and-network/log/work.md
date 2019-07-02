@@ -36,3 +36,4 @@
 | 2019/02/18 | 古北校区新购1台Canon G3800打印机，驱动安装到server | WiFi连接 |
 | 2019/02/22 | 威宁校区报名处1台Canon MF4700打印机驱动安装到server | WiFi连接 |
 | 2019/05/09 | 金沙江路校区安装电信宽带，2路电话移机 | [Setup Call Forwarding Service of Shanghai Telecom](https://github.com/northbright/Notes/blob/master/telecom/setup-call-forwarding-service-of-shanghai-telecom.md)  |
+| 2019/05/23 - 2019/05/25 | 安装16台HP Z238工作站 | 教师以及报名处使用，新增SSD |
