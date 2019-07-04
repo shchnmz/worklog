@@ -39,3 +39,4 @@
 | 2019/05/05 - 2019/05/29 | 设置金沙江校区交换机，路由器，UBNT AP控制器 | [金沙江校区网络设置](https://github.com/shchnmz/worklog/blob/master/hardware-and-network/doc/network-settings-of-jinshajiang-campus.md) |
 | 2019/05/05 - 2019/05/29 | 设置金沙江校区监控录像机 | [金沙江校区监控摄像头设置](https://github.com/shchnmz/worklog/blob/master/hardware-and-network/doc/camera-settings-of-jinshajiang-campus.md) |
 | 2019/05/23 - 2019/05/25 | 安装16台HP Z238工作站 | 教师以及报名处使用，新增SSD |
+| 2019/07/03 - 2019/07/03 | 中山公园安装6台HP Z238工作站 | 新教师2楼会议室 |
