@@ -38,5 +38,6 @@
 | 2019/05/09 | 金沙江路校区安装电信宽带，2路电话移机 | [Setup Call Forwarding Service of Shanghai Telecom](https://github.com/northbright/Notes/blob/master/telecom/setup-call-forwarding-service-of-shanghai-telecom.md)  |
 | 2019/05/05 - 2019/05/29 | 设置金沙江校区交换机，路由器，UBNT AP控制器 | [金沙江校区网络设置](https://github.com/shchnmz/worklog/blob/master/hardware-and-network/doc/network-settings-of-jinshajiang-campus.md) |
 | 2019/05/05 - 2019/05/29 | 设置金沙江校区监控录像机 | [金沙江校区监控摄像头设置](https://github.com/shchnmz/worklog/blob/master/hardware-and-network/doc/camera-settings-of-jinshajiang-campus.md) |
-| 2019/05/23 - 2019/05/25 | 安装16台HP Z238工作站 | 教师以及报名处使用，新增SSD |
+| 2019/05/23 - 2019/05/25 | 金沙江校区安装16台HP Z238工作站 | 教师以及报名处使用，新增SSD |
+| 2019/07/02 | 中山公园2楼会议室改成教师办公室，航今公司负责网络改造，3楼仓库改造领导绘画室接入UBNT AP | 2F监控用的电视机移动位置，航今重新把VGA线从顶上走线，连接电视机 |
 | 2019/07/03 - 2019/07/03 | 中山公园安装6台HP Z238工作站 | 新教师2楼会议室 |
