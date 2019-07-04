@@ -37,4 +37,5 @@
 | 2019/02/22 | 威宁校区报名处1台Canon MF4700打印机驱动安装到server | WiFi连接 |
 | 2019/05/09 | 金沙江路校区安装电信宽带，2路电话移机 | [Setup Call Forwarding Service of Shanghai Telecom](https://github.com/northbright/Notes/blob/master/telecom/setup-call-forwarding-service-of-shanghai-telecom.md)  |
 | 2019/05/05 - 2019/05/29 | 设置金沙江校区交换机，路由器，UBNT AP控制器 | [金沙江校区网络设置](https://github.com/shchnmz/worklog/blob/master/hardware-and-network/doc/network-settings-of-jinshajiang-campus.md) |
+| 2019/05/05 - 2019/05/29 | 设置金沙江校区监控录像机 | [金沙江校区监控摄像头设置](https://github.com/shchnmz/worklog/blob/master/hardware-and-network/doc/camera-settings-of-jinshajiang-campus.md) |
 | 2019/05/23 - 2019/05/25 | 安装16台HP Z238工作站 | 教师以及报名处使用，新增SSD |
