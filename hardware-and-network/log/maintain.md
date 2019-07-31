@@ -50,3 +50,4 @@
 | 2019/07/27 | 中山公园校区打印机不能工作 | 打印测试页提示需要更新打印机驱动 | 更新打印机驱动 | [Need Update Printer Driver to Make Printer Work Again](https://github.com/northbright/Notes/blob/master/Windows/printer/need-update-printer-driver-to-make-printer-work-again.md) |
 | 2019/07/29 | 中山公园校区小卖部无线网络故障 | 网线/模块问题导致TP-LINK路由器不能获取IP | 更换ASUS NT-R56U，更换网线 | 使用的软跳线可能有质量问题，且第一次装修的网线模块可能又问题 |
 | 2019/07/30 | 中山公园校区报名处电脑不能上网 | 从交换机直接接跳线，ping网关3秒，报名处新更换的NT-R56U的IP不能访问，SSID的密码提示不对，但把路由器接入到其他办公室的面板，能找到IP，密码又对了 | 报名处的网口暂时移除设备，同时更换机房的备用交换机 | 报名处的网口对应的管中的网线或者模块有故障 |
+| 2019/07/27 | 金沙江校区的海康威视录像机通过网络看预览提示错误码流加密 | 萤石云的密码和本地码流密码不一致，设置一致后，需要按“保存” | 重新设置码流密码，保存 | [海康威视监控录像机因为码流密钥不正确导致不能预览](https://github.com/northbright/Notes/blob/master/hardware/hikvision-camera-can-not-preview-due-to-incorrect-stream-key.md) |
