@@ -47,3 +47,6 @@
 | 2019/05/05 | 中山公园校区报名处的主任处的网络面板脱落 | 扯动造成脱落 | 网络工程公司帮忙更换网络/电话模块 | 原ping同网段电脑164，修复后64，装修使用五类线 | 
 | 2019/07/02 | 9号教室在海康威视的网络界面不能预览 | 摄像头的子码流设置有问题 | 按照其他正常摄像头来设置子码流 | [Failed to Preview One Channel of HikVision Recorder](https://github.com/northbright/Notes/blob/master/hardware/failed-to-preview-on-channel-of-hikvision-recorder.md) |
 | 2019/07/02 | 中山公园校区1路外线电话不能拨入和拨出 | 电信的Modem直接连接电话机也是不能拨入拨出，出现故障 | 重启电信Modem | 没有开启制冷空调，温度较高，需要开启 | 
+| 2019/07/27 | 中山公园校区打印机不能工作 | 打印测试页提示需要更新打印机驱动 | 更新打印机驱动 | [Need Update Printer Driver to Make Printer Work Again](https://github.com/northbright/Notes/blob/master/Windows/printer/need-update-printer-driver-to-make-printer-work-again.md) |
+| 2019/07/29 | 中山公园校区小卖部无线网络故障 | 网线/模块问题导致TP-LINK路由器不能获取IP | 更换ASUS NT-R56U，更换网线 | 使用的软跳线可能有质量问题，且第一次装修的网线模块可能又问题 |
+| 2019/07/30 | 中山公园校区报名处电脑不能上网 | 从交换机直接接跳线，ping网关3秒，报名处新更换的NT-R56U的IP不能访问，SSID的密码提示不对，但把路由器接入到其他办公室的面板，能找到IP，密码又对了 | 报名处的网口暂时移除设备，同时更换机房的备用交换机 | 报名处的网口对应的管中的网线或者模块有故障 |
