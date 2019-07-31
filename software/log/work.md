@@ -16,3 +16,4 @@
 | 2018/11/29 | 18年秋季的转班系统突然不能访问，查明是阿里云的CentOS 7的ECS的IP租约到期后刷新DHCP失败，没有获得内网IP，后联系客服重启网络服务后恢复 | [阿里云运行CentOS 7的ECS不能通过DHCP获取IP](https://github.com/northbright/Notes/blob/master/aliyun/can-not-get-ip-via-dhcp-on-centos-7-ecs.md) |
 | 2019/03/01 - 2019/03/03 | 实现新的API，提供给第三方用于实现根据手机号码获取学生信息，课程，班级等信息用于学生基本信息采集项目 | <https://github.com/shchnmz/zb/tree/master/api> |
 | 2019/03/08 | 学生基本信息采集项目上线 | 采集学生地区信息，用于对新校区的开班的提前统计与分析 |
+| 2019/07/31 | 明日系统某个账号突然提示用户名密码不匹配（密码没有修改过） | [用户名冲突导致用户登录明日系统失败](https://github.com/northbright/Notes/blob/master/Software/ming/usernames-conflict-in-ming-cause-login-failure.md#%E7%94%A8%E6%88%B7%E5%90%8D%E5%86%B2%E7%AA%81%E5%AF%BC%E8%87%B4%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95%E6%98%8E%E6%97%A5%E7%B3%BB%E7%BB%9F%E5%A4%B1%E8%B4%A5)  |
