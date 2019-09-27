@@ -91,7 +91,7 @@
 * DHCP Server禁用
 * Trunk Ports: 
 
-   | Port | Permite VLAN |
+   | Port | Permit VLAN |
    | :--: | :--: |
    | LAN 1 | 1, 2, 3, 30, 31, 5, 6, 100 |
    
