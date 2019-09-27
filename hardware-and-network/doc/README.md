@@ -20,6 +20,7 @@
 * [中山公园校区网络更新设置(2018/07/04)](network-settings-of-zhongshan-park-campus.md)
 * [金沙江校区网络设置](network-settings-of-jinshajiang-campus.md)
 * [金沙江校区监控设置](camera-settings-of-jinshajiang-campus.md)
+* [金沙江校区电话设置](telephone-settings-of-jinshajiang-campus.md)
 
 #### 指南
 * [美校服务器共享文件夹以及共享打印机连接指南](shared-folders-printers-settings.md)
