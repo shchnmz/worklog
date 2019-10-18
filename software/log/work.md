@@ -18,3 +18,4 @@
 | 2019/03/08 | 学生基本信息采集项目上线 | 采集学生地区信息，用于对新校区的开班的提前统计与分析 |
 | 2019/07/31 | 明日系统某个账号突然提示用户名密码不匹配（密码没有修改过） | [用户名冲突导致用户登录明日系统失败](https://github.com/northbright/Notes/blob/master/Software/ming/usernames-conflict-in-ming-cause-login-failure.md#%E7%94%A8%E6%88%B7%E5%90%8D%E5%86%B2%E7%AA%81%E5%AF%BC%E8%87%B4%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95%E6%98%8E%E6%97%A5%E7%B3%BB%E7%BB%9F%E5%A4%B1%E8%B4%A5)  |
 | 2019/08/15 - 2019/08/16 | 网站备案提示信息不符，重新备案 | 5证合1后，代码变更，上海地区备案，主体负责人需要与法人一致，域名持有者需要与主办单位一致。[上海网站备案](https://github.com/northbright/Notes/blob/master/beian/shanghai-beian.md) |
+| 2019/10/18 | 美校网站迁移至阿里云上海的ECS | CentOS, MariaDB, PHP-FPM, Nginx, WordPress |
