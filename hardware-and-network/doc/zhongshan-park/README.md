@@ -6,4 +6,5 @@
 ## 记录
 * [中山公园校区电话设置(2018/01/15)](telephone-settings-of-zhongshan-park-campus.md)
 * [中山公园校区网络更新设置(2018/07/04)](network-settings-of-zhongshan-park-campus.md)
+* [中山公园校区网络升级设置(2019/10)](network-update-v2/README.md)
 
