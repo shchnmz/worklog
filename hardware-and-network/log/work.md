@@ -13,7 +13,7 @@
 | 2017/08/28 | UBNT UAP AC Lite设置为静态IP | [可以忽略UBNT UAP的网络设置中使用静态IP后提示的IP冲突警告](https://github.com/northbright/Notes/blob/master/hardware/ignore-the-ip-conflict-warning-when-use-static-ip-for-ubnt-uap.md) |
 | 2017/09/27 | 财务室安装Canon MF4720w打印机 | WiFi连接，设置静态IP |
 | 2018/01/04 - 2018/01/05 | 威宁校区改造，教务处临时搬迁至6，7号教室。每个教室10台PC组装接线。新增2根网线从机柜至6，7号教室，多级交换机级连组成临时网络。网络打印机连接。 | 临时使用约40天 |
-| 2018/01/15 | 中山公园校区配合机房安装松下程控交换机 | [中山公园校区电话设置(2018/01/15)](https://github.com/shchnmz/worklog/blob/master/hardware-and-network/doc/telephone-settings-of-zhongshan-park.md), [Panasonic（松下）电话程控交换机操作](https://github.com/northbright/Notes/blob/master/hardware/panasonic-kx-ns300-basis/panasonic-kx-ns300-basis.md) |
+| 2018/01/15 | 中山公园校区配合机房安装松下程控交换机 | [中山公园校区电话设置(2018/01/15)](https://github.com/shchnmz/worklog/blob/master/hardware-and-network/doc/zhongshan-park/telephone-settings-of-zhongshan-park.md), [Panasonic（松下）电话程控交换机操作](https://github.com/northbright/Notes/blob/master/hardware/panasonic-kx-ns300-basis/panasonic-kx-ns300-basis.md) |
 | 2018/01/15 - 2018/02/06 | 配合第三方公司进行威宁校区网络重新布线，摄像头更换为高清，电话重新布线，更换电话交换机以及录音盒 | 机柜位置移动，所有线重新连接 |
 | 2018/01/20 | 威宁校区财务室新装2台HP Z238工作站 | |
 | 2018/01/24 | 威宁校区上海电信宽带光纤接入点移动到新机柜 | 老光纤1根，新增1根 |
@@ -24,7 +24,7 @@
 | 2018/02/25 | 古北校区电信宽带升级200M | 电信免费升级200M，更换新网关，路由器连接LAN 7, QOS设置单IP限速上下行均20M |
 | 2018/06/21 - 2018/07/05 | 中山公园校区改造，2楼和3楼的摄像头更新，211/311教室新增摄像头，306划出新办公室，新增无线AP | 机房重新布线，新增交换机和硬盘录像机 |
 | 2018/07/04 | 中山公园共享服务器server1配置允许远程登录 | [Remote Desktop Authentication Error: The Function is Not Supported](https://github.com/northbright/Notes/blob/master/Windows/remote-desktop/remote-desktop-authentication-error-the-function-is-not-supported.md)  |
-| 2018/07/04 | 中山公园校区Unifi Controller重新配置: chnmz网络用于手机，VLAN ID: 20,chnmz-pc用于电脑和打印机 | Unifi Controller安装在server1上, [中山公园校区网络更新设置(2018/07/04)](https://github.com/shchnmz/worklog/blob/master/hardware-and-network/doc/network-settings-of-zhongshan-park-campus.md) |
+| 2018/07/04 | 中山公园校区Unifi Controller重新配置: chnmz网络用于手机，VLAN ID: 20,chnmz-pc用于电脑和打印机 | Unifi Controller安装在server1上, [中山公园校区网络更新设置(2018/07/04)](https://github.com/shchnmz/worklog/blob/master/hardware-and-network/doc/zhongshan-park/network-settings-of-zhongshan-park-campus.md) |
 | 2018/08/28 | 和航今科技一起去古北校区，确认新增老师需要增加的网络节点 | 教务处8个，206教室1个，阁楼5个（含1个打印机） |
 | 2018/09/13 | 艾特租租给威宁校区9台清华同方电脑到货。安装软件，连接共享文件夹／打印机 | |
 | 2018/09/18 - 2018/09/19 | 和航今公司去中山公园校区306办公室，2楼／3楼教务处有线网络布线 | 306办公室原先只有无线网络，增加有线网络 |
@@ -36,8 +36,8 @@
 | 2019/02/18 | 古北校区新购1台Canon G3800打印机，驱动安装到server | WiFi连接 |
 | 2019/02/22 | 威宁校区报名处1台Canon MF4700打印机驱动安装到server | WiFi连接 |
 | 2019/05/09 | 金沙江路校区安装电信宽带，2路电话移机 | [Setup Call Forwarding Service of Shanghai Telecom](https://github.com/northbright/Notes/blob/master/telecom/setup-call-forwarding-service-of-shanghai-telecom.md)  |
-| 2019/05/05 - 2019/05/29 | 设置金沙江校区交换机，路由器，UBNT AP控制器 | [金沙江校区网络设置](https://github.com/shchnmz/worklog/blob/master/hardware-and-network/doc/network-settings-of-jinshajiang-campus.md) |
-| 2019/05/05 - 2019/05/29 | 设置金沙江校区监控录像机 | [金沙江校区监控摄像头设置](https://github.com/shchnmz/worklog/blob/master/hardware-and-network/doc/camera-settings-of-jinshajiang-campus.md) |
+| 2019/05/05 - 2019/05/29 | 设置金沙江校区交换机，路由器，UBNT AP控制器 | [金沙江校区网络设置](https://github.com/shchnmz/worklog/blob/master/hardware-and-network/doc/jinshajiang/network-settings-of-jinshajiang-campus.md) |
+| 2019/05/05 - 2019/05/29 | 设置金沙江校区监控录像机 | [金沙江校区监控摄像头设置](https://github.com/shchnmz/worklog/blob/master/hardware-and-network/doc/jinshajiang/camera-settings-of-jinshajiang-campus.md) |
 | 2019/05/23 - 2019/05/25 | 金沙江校区安装16台HP Z238工作站 | 教师以及报名处使用，新增SSD |
 | 2019/07/02 | 中山公园2楼会议室改成教师办公室，航今公司负责网络改造，3楼仓库改造领导绘画室接入UBNT AP | 2F监控用的电视机移动位置，航今重新把VGA线从顶上走线，连接电视机 |
 | 2019/07/03 - 2019/07/03 | 中山公园安装6台HP Z238工作站 | 新教师2楼会议室 |
