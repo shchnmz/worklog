@@ -50,6 +50,10 @@
 | 78:8a:20:48:58:b1 | UAP AC Lite | 财务室 | 6 | 153 |
 | 78:8a:20:70:23:2a | UAP AC Lite | 领导办公室 | 11 | 161 |
 
+## Unifi Controller
+* User: xxu
+* Password: U开头的密码
+
 ## 静态IP
 
 * 服务器
