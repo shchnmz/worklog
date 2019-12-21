@@ -57,8 +57,8 @@
 | AC Lite | 2F财务室 | f0:9f:c2:d6:57:33 | default | 6 | 153 |
 | AC Lite | 2F会议室 | f0:9f:c2:7c:42:8b | default | 1 | 149 |
 | AC Pro | 3F理事长办公室 | fc:ec:da:f0:84:24 | default | 11 | 161 |
-| AC Pro | 3F基础年段办公室 | 78:8a:20:2c:0a:2d | default | | |
-| AC Lite | 3F校长办公室 | 78:8a:20:48:3e:90 | default | | |
+| AC Pro | 3F基础年段办公室 | 78:8a:20:2c:0a:2d | default | 11 | 161 |
+| AC Lite | 3F校长办公室 | 78:8a:20:48:3e:90 | default | 6 | 153 |
 | AC Pro | 3F幼儿年段办公室 | 78:8a:20:2c:0a:f3 | default | 1 | 149 |
 | AC Lite | 3F道具室（VIP） | 18:e8:29:93:b0:94 | default | 11 | 161 |
 | AC Lite | 物业 | 74:83:c2:36:26:6f | chnmz-wuye | 1 | 149 |
