@@ -54,3 +54,5 @@
 | 2019/08/27 | 威宁校区所有电话分机出现滋滋噪音 | 松下程控交换机可能过热 | 远程登录后重启设备 | [Noise Appears in All Phones of Panasonic kx ns300](https://github.com/northbright/Notes/blob/master/hardware/noise-appears-in-all-phones-of-panasonic-kx-ns300.md) |
 | 2019/08/28 | 威宁校区的海康威视在Web Admin以及萤石云不能实时预览 | 散热条件差可能造成设备长时间运行过热 | 重启设备 | 在本地可以正常预览以及回放。[Hikvision Recorder Can Not Preview on Web Admin or Yingshiyun](https://github.com/northbright/Notes/blob/master/hardware/hikvision-recorder-can-not-preview-on-web-admin-or-yingshiyun.md) |
 | 2019/08/30 | 威宁校区松下数字电话接入第1路电话后，第2路电话进入只有闪灯 | 重启松下电话交换机后，数字总机忙转到分机的设置丢失 | 重新设置数字总机忙转 | [Panasonic（松下）NS300电话程控交换机操作](https://github.com/northbright/Notes/blob/master/hardware/panasonic-kx-ns300-basis/panasonic-kx-ns300-basis.md) |
+| 2020/05/14 | 金沙江校区11号教室的网口不通 | 2号机房的配线架连交换机的跳线插头松动（交换机端）| 重新插紧条线 | |
+| 2020/05/14 | 中山公园查询上海电信宽带上行只有20M | 升级下行500M/上行100M的时候，电信后台数据可能没有更新 | 打电话给电信经理，后台数据更新。然后让电信师傅上门测试速度 | 测试速度下行500M/上行100M |
