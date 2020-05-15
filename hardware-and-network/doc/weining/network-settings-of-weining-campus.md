@@ -51,8 +51,10 @@
 | 78:8a:20:70:23:2a | UAP AC Lite | 领导办公室 | 11 | 161 |
 
 ## Unifi Controller
-* User: xxu
-* Password: U开头的密码
+* Unifi Controller安装在`\\server`上，IP:`192.168.1.2`
+* 账号
+  * User: xxu
+  * Password: U开头的密码
 
 ## 静态IP
 
