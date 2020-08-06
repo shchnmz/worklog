@@ -12,10 +12,10 @@
 
 * "Default" Group
 
-   | SSID | VLAN | 用途 |
-   | :--: | :--: | :--: |
-   | chnmz | 20 | 无线设备，电视机/盒子 |
-   | chnmz-printer | 10 | 打印机，和电脑同一VLAN，便于安装网络打印机 |
+   | SSID | VLAN | 用途 | 密码 |
+   | :--: | :--: | :--: | :--: |
+   | chnmz | 20 | 无线设备，电视机/盒子 | M开头2结尾的普通WiFi密码 |
+   | chnmz-printer | 10 | 打印机，和电脑同一VLAN，便于安装网络打印机 | M开头2结尾的普通WiFi密码 + `printer` |
 
 * "chnmz-wuye" Group
 
