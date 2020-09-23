@@ -123,7 +123,7 @@
 | 2019/07/17 | SanDisk SSD 480G | 3 | 京东 | 古北校区教师，领导 |
 | 2019/09/27 | iPad Pro 2018 64G WLAN | 8 | 京东 | 金沙江校区科技课程 |
 | 2019/09/27 | Apple Pencil 2代 | 8 | 京东 | 金沙江校区科技课程 |
-| 2019/11/12 | iPad Pro 2018 64G WLAN | 1 | 京东 |中山公园校区申请 |
-| 2019/11/12 | Apple Pencil 2代 | 1 | 京东 |中山公园校区领导申请 |
+| 2019/10/17 | iPad Pro 2018 64G 12.9 WLAN | 1 | Apple Store环球港店 |中山公园校区申请 |
+| 2019/10/17 | Apple Pencil 2代 | 1 | Apple Store环球港店 |中山公园校区领导申请 |
 | 2020/09/19 | iPad Pro 2019 12.9 128G WiFi | 4 | Apple Store环球港店 |金沙江校区科技课 |
 | 2020/09/19 | Apple Pencil 2代 | 4 | Apple Store环球港店 |金沙江校区科技课 |
