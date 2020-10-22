@@ -27,7 +27,7 @@
 
 #### 萤石云设置的验证码
 * QWRTYU
-* [HikVision Camera Recorder Can Not Connect to 萤石云(ezviz)](https://github.com/northbright/Notes/blob/master/hardware/hikvision-camera-recorder-can-not-connect-to-ying-shi-yun.md)
+* [HikVision Camera Recorder Can Not Connect to 萤石云(ezviz)](https://github.com/northbright/Notes/blob/master/hardware/hikvision/hikvision-camera-recorder-can-not-connect-to-ying-shi-yun.md)
 
 #### 实时监控以及回放
-* [海康威视录像机基本操作](https://github.com/northbright/Notes/blob/master/hardware/hikvision-recorder-basis/hikvision-recorder-basis.md)
+* [海康威视录像机基本操作](https://github.com/northbright/Notes/blob/master/hardware/hikvision/hikvision-recorder-basis/hikvision-recorder-basis.md)

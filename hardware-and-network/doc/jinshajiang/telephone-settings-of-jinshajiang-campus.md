@@ -14,4 +14,4 @@
 * 初始密码: `123456`
 
 ## 参考资料
-* [Panasonic（松下）电话程控交换机操作](https://github.com/northbright/Notes/blob/master/hardware/panasonic-kx-ns300-basis/panasonic-kx-ns300-basis.md)
+* [Panasonic（松下）电话程控交换机操作](https://github.com/northbright/Notes/blob/master/hardware/panasonic/panasonic-kx-ns300-basis/panasonic-kx-ns300-basis.md)
