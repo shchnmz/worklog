@@ -49,6 +49,7 @@
 | 78:8a:20:48:64:d6 | UAP AC Lite | 走廊从最西面数第4个 | 1 | 149 |
 | 78:8a:20:48:58:b1 | UAP AC Lite | 财务室 | 6 | 153 |
 | 78:8a:20:70:23:2a | UAP AC Lite | 领导办公室 | 11 | 161 |
+| 74:AC:B9:C0:CE:42 | UAP AC Lite | 小卖部 | 6 |  157 |
 
 ## Unifi Controller
 * Unifi Controller安装在`\\server`上，IP:`192.168.1.2`
