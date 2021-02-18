@@ -74,4 +74,4 @@
 | 2021/01/13 | 威宁校区第一件办公室打印机打印非常缓慢 | 打印机对应网口的模块测试，机柜对应的跳线故障 | 更换机柜的跳线，更换模块重新接线 | |
 | 2021/01/15 | 威宁校区教研室的EPSON L6168提示更换维护箱，不能打印 | 维护箱芯片计数满（清洗/深度清洗/开关机会计数） | 更换T04D1维护箱（废墨垫）  | [EPSON 打印机驱动提示“服务请求，打印机的部件到使用期限”](https://github.com/northbright/Notes/blob/master/hardware/epson/printer-driver-says-a-part-inside-your-printer-is-at-the-end-of-its-service-life.md) |
 | 2021/02/04 | 古北校区有一台电脑，耳机插入没有声音 | 音频设备有2个，NVIDIA以及REALTEK，选择了NVIDIA的设备 | 重新选择 REALTEK 解决  |  |
-| 2021/02/16 | 威宁校区一台NZXT机箱的电脑，不能开机 | 机箱电源按钮连接主板的PWR SW的针脚的连线可能故障 | 使用 RESET 按钮替换（连接 PWR SW）| |
+| 2021/02/16 | 威宁校区一台NZXT机箱的电脑，不能开机 | 机箱电源按钮连接主板的PWR SW的针脚的连线可能故障 | 使用 RESET 按钮替换（连接 PWR SW）| [Cable Connected Power Button and Mainboard Does NOT Work Cause PC Can NOT Boot](https://github.com/northbright/Notes/blob/master/hardware/pc/cable-connected-power-button-and-mainboard-does-not-work-cause-pc-can-not-boot.md) |
