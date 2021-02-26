@@ -54,7 +54,7 @@
 ## Unifi Controller
 * Unifi Controller安装在`\\server`上，IP:`192.168.1.2`
 * 账号
-  * User: xxu
+  * User: admin
   * Password: U开头的密码
 
 ## 静态IP
