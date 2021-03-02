@@ -57,6 +57,15 @@
   * User: admin
   * Password: U开头的密码
 
+## WiFi Networks
+
+| 名称 | 用途 | 频段 | VLAN ID |
+| :--: | :--: | :--: | :--: |
+| chnmz | 手机，小米盒子（投屏） | 2.4G | 20 |
+| chnmz-5G | 手机，小米电视（投屏）| 5G | 20 |
+| chnmz-pc | 打印机，笔记本 | 2.4G | 1 |
+| chnmz-pc-5G | 打印机，笔记本 | 5G | 1 |
+
 ## 静态IP
 
 * 服务器
