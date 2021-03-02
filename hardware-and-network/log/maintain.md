@@ -75,3 +75,4 @@
 | 2021/01/15 | 威宁校区教研室的EPSON L6168提示更换维护箱，不能打印 | 维护箱芯片计数满（清洗/深度清洗/开关机会计数） | 更换T04D1维护箱（废墨垫）  | [EPSON 打印机驱动提示“服务请求，打印机的部件到使用期限”](https://github.com/northbright/Notes/blob/master/hardware/epson/printer-driver-says-a-part-inside-your-printer-is-at-the-end-of-its-service-life.md) |
 | 2021/02/04 | 古北校区有一台电脑，耳机插入没有声音 | 音频设备有2个，NVIDIA以及REALTEK，选择了NVIDIA的设备 | 重新选择 REALTEK 解决  |  |
 | 2021/02/16 | 威宁校区一台NZXT机箱的电脑，不能开机 | 机箱电源按钮连接主板的PWR SW的针脚的连线可能故障 | 使用 RESET 按钮替换（连接 PWR SW）| [Cable Connected Power Button and Mainboard Does NOT Work Cause PC Can NOT Boot](https://github.com/northbright/Notes/blob/master/hardware/pc/cable-connected-power-button-and-mainboard-does-not-work-cause-pc-can-not-boot.md) |
+| 2021/03/02 | 威宁校区Unifi Controller发现有1个AP掉线，原本10个，只发现9个，“走廊从最西面数第1个”掉线 | 经过拆下来查看，网口处积水断路造成故障 | 准备采购新的替换 | 可能夏天走廊热空气与上方消防水管管壁形成冷凝水，下次安装位置需要避开水管 |
