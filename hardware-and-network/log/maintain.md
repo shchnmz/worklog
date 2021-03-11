@@ -76,3 +76,7 @@
 | 2021/02/04 | 古北校区有一台电脑，耳机插入没有声音 | 音频设备有2个，NVIDIA以及REALTEK，选择了NVIDIA的设备 | 重新选择 REALTEK 解决  |  |
 | 2021/02/16 | 威宁校区一台NZXT机箱的电脑，不能开机 | 机箱电源按钮连接主板的PWR SW的针脚的连线可能故障 | 使用 RESET 按钮替换（连接 PWR SW）| [Cable Connected Power Button and Mainboard Does NOT Work Cause PC Can NOT Boot](https://github.com/northbright/Notes/blob/master/hardware/pc/cable-connected-power-button-and-mainboard-does-not-work-cause-pc-can-not-boot.md) |
 | 2021/03/02 | 威宁校区Unifi Controller发现有1个AP掉线，原本10个，只发现9个，“走廊从最西面数第1个”掉线 | 经过拆下来查看，网口处积水断路造成故障 | 准备采购新的替换 | 可能夏天走廊热空气与上方消防水管管壁形成冷凝水，下次安装位置需要避开水管 |
+| 2021/03/03 - 2021/03/09 | iPhone 屏幕镜像，找不到同一网络中的小米电视和小米盒子 | UNBT的Unifi Controller中的无线网络，2.4G和5G共享一个SSID，开启了5G优先 | 2.4G和5G独立为2个不同的 SSID | [Can Not Find Airplay Devices under One Dual Band SSID of Unifi Controller](https://github.com/northbright/Notes/blob/master/hardware/ubnt/can-not-found-airplay-devices-under-one-dual-band-ssid-of-unifi-controller.md)  | 
+| 2021/03/03 - 2021/03/09 | 威宁，中山公园，金沙江校区，小米盒子，小米电视在投屏镜像的显示的设备名称混乱 | 没有统一命名 | 设备名为教室号，安装乐播投屏App，乐播投屏的设备名称为：乐播投屏 + 教室号 | | 
+| 2021/03/09 | 金沙江校区2号教室的摄像头通道丢失，不能预览和回放 | 摄像头死机 | 摄像头处的网线，重新做了水晶头，后续如果还死机，需要返厂维修 | | 
+| 2021/03/09 | 金沙江校区，不知道 UBNT Unifi Controller 中的 AP 的位置 | 需要在 UNBT Unifi Controller 中，将 AP 的 Alias 和物理位置对应 | 使用 Locate 定位设备，然后修改 AP 的Alias | |
