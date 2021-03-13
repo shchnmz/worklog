@@ -80,3 +80,4 @@
 | 2021/03/03 - 2021/03/09 | 威宁，中山公园，金沙江校区，小米盒子，小米电视在投屏镜像的显示的设备名称混乱 | 没有统一命名 | 设备名为教室号，安装乐播投屏App，乐播投屏的设备名称为：乐播投屏 + 教室号 | | 
 | 2021/03/09 | 金沙江校区2号教室的摄像头通道丢失，不能预览和回放 | 摄像头死机 | 摄像头处的网线，重新做了水晶头，后续如果还死机，需要返厂维修 | | 
 | 2021/03/09 | 金沙江校区，不知道 UBNT Unifi Controller 中的 AP 的位置 | 需要在 UNBT Unifi Controller 中，将 AP 的 Alias 和物理位置对应 | 使用 Locate 定位设备，然后修改 AP 的Alias | |
+| 2021/03/12 | 威宁玻璃房办公室3台电脑同时出现打印的图片当中出现空白区域 | Windows 10的 KB5000808 更新导致打印时蓝屏，出现空白区域 | 建议等待最新 Windows 10的更新，或者卸载 KB5000802，KB5000808 | [There is a Blank Area in the Middle of Printed Image after KB5000808 Installed Automatically on Windows 10](https://github.com/northbright/Notes/blob/master/Windows/printer/there-is-a-blank-area-in-the-middle-of-printed-image-after-kb5000808-installed-automatically-on-windows-10.md) |
