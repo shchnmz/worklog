@@ -60,4 +60,4 @@
 | 2021/02/02 | 金沙江校区年会场地布置 | 大厅使用手机直播，35, 36教室每个教室使用电脑连接电视，进入腾讯会议，笔记本连接移动电视，播放PPT以及运行抽奖软件 |
 | 2021/02/27 | chnmz/chnmz-pc分离2.4G/5G，新增chnmz-5G,chnmz-pc-5G | 关闭5G引导，更稳定，小米电视可以选择5G连接，投屏速度更快 |
 | 2021/03/02 | 威宁所有小米电视，小米盒子4以及安装的乐播投屏App显示的投屏设备名称，重新命名，方便查找设备 | [小米电视，小米盒子，乐播投屏App投屏显示名称的命名规则](https://github.com/shchnmz/worklog/blob/master/hardware-and-network/doc/weining/tv-and-xiaomi-box.md#%E5%B0%8F%E7%B1%B3%E7%94%B5%E8%A7%86%E5%B0%8F%E7%B1%B3%E7%9B%92%E5%AD%90%E4%B9%90%E6%92%AD%E6%8A%95%E5%B1%8Fapp%E6%8A%95%E5%B1%8F%E6%98%BE%E7%A4%BA%E5%90%8D%E7%A7%B0%E7%9A%84%E5%91%BD%E5%90%8D%E8%A7%84%E5%88%99)  |
-
+| 2021/03/14 | 迁移 Unifi Controller 到联想 E480 笔记本上，升级 UAP 固件，拆分2.4G / 5G的 SSID | [Can Not Discover UAPs in Unifi Controller Due to Set Network Profile to Public on Windows 10](https://github.com/northbright/Notes/blob/master/hardware/ubnt/can-not-discover-uaps-in-unifi-controller-due-to-set-network-profile-to-public-on-windows-10.md) |
